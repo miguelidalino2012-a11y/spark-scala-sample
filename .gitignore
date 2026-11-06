@@ -1,0 +1,4 @@
+*.tgz
+.DS_Store
+yarn-error.log*
+npm-debug.log*
